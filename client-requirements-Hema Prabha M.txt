@@ -1,0 +1,13 @@
+Features of Online study notes website
+
+1)User account creation
+2)Document upload/download
+3)Add/edit documents
+4)user dashboard
+5)Searching
+6)Rating
+7)Delete documents
+8)notifications
+9)logout
+
+
